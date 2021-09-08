@@ -32,6 +32,7 @@ dependencies:
   geolocator: ^7.6.0
   animator: ^3.1.0
   shared_preferences: ^2.0.7
+  permission_handler: ^8.1.4+2
 
 dev_dependencies:
   flutter_test:

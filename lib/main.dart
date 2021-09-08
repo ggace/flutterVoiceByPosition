@@ -126,7 +126,6 @@ class StreamBuilderExampleState extends State<StreamBuilderExample> {
                       } );
                     },
                     child: Text('setPosition')),
-                Text('latitude : $latitude, longtitude : $longitude')
               ],
             ));
           },
